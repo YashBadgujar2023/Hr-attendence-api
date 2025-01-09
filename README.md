@@ -7,6 +7,7 @@ This project is an HR-based attendance system that allows tracking employee atte
 # Features:
 Employee attendance tracking based on real-time data.
 Detailed reports for present, absent, and leave days.
+Employee Image intregration using the cloudinary.
 Ability to track holidays and attendance.
 Admin access to generate attendance reports.
 Technologies Used
